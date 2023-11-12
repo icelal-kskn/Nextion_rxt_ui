@@ -55,4 +55,4 @@ If you want to contribute to the project, please follow these steps:
 
 ## License
 
-This project is licensed under the [license name]. For more information, see the [LICENSE](LICENSE) file.
+This project is licensed under the  [GNU GENERAL PUBLIC LICENSE](LICENSE). For more information, see the [LICENSE](LICENSE) file.
